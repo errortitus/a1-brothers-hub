@@ -3,7 +3,7 @@
 A clean and modern food menu web application built using **HTML5** and **CSS3**. This project features a responsive menu card grid, a structured pricing table for special offers, and an interactive contact section.
 
 ## 🚀 Live Demo
-*(https://errortitus.github.io/a1-brothers-hub/)*
+*https://errortitus.github.io/a1-brothers-hub/*
 
 ---
 
